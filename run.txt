@@ -1,0 +1,2 @@
+api : php artisan serve
+web : npm start
